@@ -1,7 +1,11 @@
 {
-"name": "SNEK Pool",
-"description": "Sssssss",
-"ticker": "SNEK",
-"homepage": "https://snekpool.com",
-"verification": "f4e578abbc00f265d1"
+  "name": "SNEK Pool",
+  "description": "Sssssss",
+  "ticker": "SNEK",
+  "homepage": "https://snekpool.com",
+  "extended": "https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/austinthiel/SNEK_pool/05f2bcb850ee2672863e8aeaedb955d602ec4855/sneklogo_64x64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/austinthiel/SNEK_pool/main/sneklogo_compressed.png"
+  }
 }
